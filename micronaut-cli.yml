@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: neo4japp
+---
+testFramework: junit
+sourceLanguage: java
